@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>01/21</dataInicio>
+        <dataFim>02/18</dataFim>
+        <signoNome>Aquário</signoNome>
+            <descricao>
+                Inovador, racional, rápido e imprevisível, ele ri da cara das regras e detesta a sensação de estar preso a algo, seja um lugar, um ideal ou uma situação. As pessoas que têm ascendente nesse signo costumam curtir um visual bem inesperado, e quanto mais chocadas as pessoas à sua volta, melhor.
+            </descricao>
+    </signo>
+    <signo>
+        <dataInicio>02/19</dataInicio>
+        <dataFim>03/20</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>
+            São pessoas sensíveis, sonhadoras, empáticas, pacientes, calmas, intuitivas, românticas, generosas, místicas e amáveis. “Captam toda a energia do ambiente como esponjas, o que os leva a sentir muitas coisas que não são suas.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>03/21</dataInicio>
+        <dataFim>04/20</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>
+            Sincerona, independente, competitiva e cheia de energia: se há uma pessoa de Áries por perto, não há desânimo que dure. Arianos amam ser o número 1 em tudo – e abrem a nossa série que vai esmiuçar todos os 12 signos astrológicos.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>04/21</dataInicio>
+        <dataFim>05/20</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>
+            Taurinos amam conforto e sabem o que é bom nessa vida. Também são amigos fiéis e conseguem ser calmos e pragmáticos em momentos críticos. Touro é firmeza! Touro é o signo ligado à vida material e, por isso, podemos dizer que ele está relacionado ao seu dinheiro, à comida, posses, ao conforto e ao corpo.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>05/21</dataInicio>
+        <dataFim>06/20</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>
+            Divertida e curiosa, a geminiana pode não ser a pessoa mais focada do mundo, mas com sua agilidade e criatividade ela se sai bem nas mais diversas situações. Gêmeos é um dos signos mais engraçados do zodíaco, graças ao seu raciocínio rápido e sua habilidade de enxergar as coisas de um ponto de vista mais leve.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>06/21</dataInicio>
+        <dataFim>07/22</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>
+            Quem tem o signo de Câncer em posição marcante no mapa astral de nascimento, possui uma personalidade sensível, dócil, gentil e amorosa. Porém, o que dita seu humor é a lua, de acordo com suas fases. Os cancerianos também costumam ser apegados e devido a isto podem ser bastante resistentes às mudanças.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>07/23</dataInicio>
+        <dataFim>08/22</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>
+            O signo de Leão pertence ao elemento Fogo, que basicamente, mostra muita determinação, volatilidade e animação. Quem experimenta toda essa energia tem muita coragem para enfrentar o que for, mas também se torna um pouco temperamental demais. Quanto à fama, são conhecidos como os mais vaidosos e exibidos do Zodíaco.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>08/23</dataInicio>
+        <dataFim>09/22</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>
+            Atentas e prestativas, elas são fundamentais nas mais diversas situações. A maioria das virginianas se orgulha das qualidades de seu signo, pois ele é sinônimo de pragmatismo, trabalho, funcionalidade, organização e saúde, coisas que são muito bem vindas por todos nós nos dias de hoje.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>09/23</dataInicio>
+        <dataFim>10/22</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>
+            Os librianos fazem o melhor sempre e em casos de conflito como ser o mais justos possível. Além disso, eles analisam todas as opções apaixonado ter paz e harmonia. Librianos prezam pela felicidade dos que libriano rodeiam e muitas vezes se sacrificam para agradar a todos.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>10/23</dataInicio>
+        <dataFim>11/21</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>
+            Os nativos desse signo tendem a ter força e capacidade de se reinventar, mesmo diante de situações desafiadoras. A intensidade escorpiana nasce principalmente da consciência da finitude das coisas, o que se manifesta também em uma imensa generosidade com as pessoas que ama.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>11/22</dataInicio>
+        <dataFim>12/21</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>
+            Personalidade. Positividade, bom humor e espontaneidade são características marcantes da personalidade sagitariana. Quem é de Sagitário costuma acreditar que tudo acontece por um motivo e que tudo tem solução. Encaram a vida com autoconfiança.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>12/22</dataInicio>
+        <dataFim>01/20</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>
+            Nativos desse signo são coerentes, disciplinados, sérios e responsáveis. Além disso, desenvolvem desde cedo uma maturidade que surpreende a todos. Quem tem um acúmulo de planetas em Capricórnio signo pode ter um perfil workaholic. Estão sempre atentos aos seus deveres e, mais ainda, aos seus horários.
+        </descricao>
+    </signo>
+</signos>
